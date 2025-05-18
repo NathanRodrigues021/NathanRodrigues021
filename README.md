@@ -28,8 +28,8 @@ O sistema controla um **Servo Motor via NodeMCU**, com agendamento de horários 
 ---
 
 ## 📫 Contato  
-- **Instagram:** [instagram.com](https://www.instagram/nathanfla77)  
-- **Email:** [nathan@email.com](mailto:nathanfla21@hotmail.com)  
+- **Instagram:** [instagram.com](https://www.instagram.com/nathanfla77)  
+- **Email:** [nathanfla21@hotmail.com](mailto:nathanfla21@hotmail.com)  
 
 ---
 
