@@ -1,16 +1,43 @@
-## Hi there 👋
+# Fala aí, eu sou o Nathan Rodrigues! 👨‍💻
 
-<!--
-**NathanRodrigues021/NathanRodrigues021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim  
+Atualmente no 5º semestre de **Análise e Desenvolvimento de Sistemas** na Estácio. Sou fissurado por tecnologia, sempre buscando aprender na prática. Curto programação, hardware e resolver problema real com código. Meus interesses giram em torno de **Desenvolvimento Mobile**, **IoT** e **automação**.
 
-Here are some ideas to get you started:
+No momento, tô focado em **React Native com Expo**, fazendo a ponte entre apps mobile e dispositivos físicos usando **Arduino** e **NodeMCU (ESP8266)**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** JavaScript, TypeScript, Python, C/C++  
+- **Mobile:** React Native (Expo)  
+- **IoT:** Arduino, NodeMCU ESP8266, Servo Motor MG995  
+- **Back-End (aprendendo):** PHP e Firebase  
+- **Ferramentas:** Git, VS Code, Android Studio  
+- **Outros:** APIs REST, Context API, Tailwind via Nativewind  
+
+---
+
+## 🚀 Projetos Recentes  
+### [FiderPetz](https://github.com/seu-usuario/fiderpetz)
+App mobile desenvolvido com **React Native + Expo** como parte de um projeto acadêmico focado em automação de alimentação para pets.  
+O sistema controla um **Servo Motor via NodeMCU**, com agendamento de horários e status em tempo real. Layout moderno e responsivo, integrando funcionalidades de controle remoto, feedback visual e notificações.
+
+🔧 **Tecnologias usadas:** React Native, JavaScript, Context API, Nativewind, NodeMCU (ESP8266), Arduino, Servo MG995  
+🎯 **Objetivo:** automatizar a rotina de alimentação de pets e facilitar a vida do tutor.
+
+---
+
+## 📫 Contato  
+- **LinkedIn:** [linkedin.com/in/nathan-rodrigues](https://www.linkedin.com)  
+- **Email:** [nathan@email.com](mailto:nathan@email.com)  
+
+---
+
+## 🎮 Curiosidades
+- Gamer nas horas vagas 🎮  
+- Sempre tentando espremer mais FPS no setup  
+- Time da tecnologia e da gambiarra que funciona™
+
+---
+
+> Valeu por dar uma olhada no meu perfil! 🚀
