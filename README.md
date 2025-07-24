@@ -18,7 +18,7 @@ No momento, tô focado em **React Native com Expo**, fazendo a ponte entre apps 
 ---
 
 ## 🚀 Projetos Recentes  
-### [FinderPetz](https://github.com/seu-usuario/fiderpetz)
+### [FinderPetz]()
 App mobile desenvolvido com **React Native + Expo** como parte de um projeto acadêmico focado em automação de alimentação para pets.  
 O sistema controla um **Servo Motor via NodeMCU**, com agendamento de horários e status em tempo real. Layout moderno e responsivo, integrando funcionalidades de controle remoto, feedback visual e notificações.
 
