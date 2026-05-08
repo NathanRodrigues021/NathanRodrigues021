@@ -22,6 +22,8 @@ No momento, tô focado em **React Native com Expo**, fazendo a ponte entre apps 
 App mobile desenvolvido com **React Native + Expo** como parte de um projeto acadêmico focado em automação de alimentação para pets.  
 O sistema controla um **Servo Motor via NodeMCU**, com agendamento de horários e status em tempo real. Layout moderno e responsivo, integrando funcionalidades de controle remoto, feedback visual e notificações.
 
+https://drive.google.com/drive/folders/1SJsaSEiJaJrxYC72ZPQATlYqT2xfKh-8
+
 🔧 **Tecnologias usadas:** React Native, JavaScript, Context API, Nativewind, (ESP32), Arduino, Servo MG995  
 🎯 **Objetivo:** automatizar a rotina de alimentação de pets e facilitar a vida do tutor.
 
