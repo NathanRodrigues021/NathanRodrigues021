@@ -1,7 +1,7 @@
 # Fala aí, eu sou o Nathan Rodrigues! 👨‍💻
 
 ## Sobre Mim  
-Atualmente no ultimo semestre de **Análise e Desenvolvimento de Sistemas** na Estácio. Sou fissurado por tecnologia, sempre buscando aprender na prática. Curto programação, hardware e resolver problema real com código. Meus interesses giram em torno de **Desenvolvimento Mobile**, **IoT** e **automação**.
+Atualmente no 6º semestre de **Análise e Desenvolvimento de Sistemas** na Estácio. Sou fissurado por tecnologia, sempre buscando aprender na prática. Curto programação, hardware e resolver problema real com código. Meus interesses giram em torno de **Desenvolvimento Mobile**, **IoT** e **automação**.
 
 No momento, tô focado em **React Native com Expo**, fazendo a ponte entre apps mobile e dispositivos físicos usando **Arduino** e **NodeMCU (ESP32)**.  
 
@@ -34,9 +34,9 @@ O sistema controla um **Servo Motor via NodeMCU**, com agendamento de horários 
 ---
 
 ## 🎮 Curiosidades
-- Gamer nas horas vagas 🎮  
-- Sempre tentando espremer mais FPS no setup  
-- Time da tecnologia e da gambiarra que funciona™
+- Gamer nas horas vagas 🎮 
+- Interesse em automação, IoT e desenvolvimento mobile.
+- Projetos voltados para integração entre software e hardware.
 
 ---
 
