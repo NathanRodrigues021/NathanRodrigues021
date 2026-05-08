@@ -3,7 +3,7 @@
 ## Sobre Mim  
 Atualmente no 6º semestre de **Análise e Desenvolvimento de Sistemas** na Estácio. Sou fissurado por tecnologia, sempre buscando aprender na prática. Curto programação, hardware e resolver problema real com código. Meus interesses giram em torno de **Desenvolvimento Mobile**, **IoT** e **automação**.
 
-No momento, tô focado em **React Native com Expo**, fazendo a ponte entre apps mobile e dispositivos físicos usando **Arduino** e **NodeMCU (ESP32)**.  
+No momento, tô focado em **React Native com Expo**, fazendo a ponte entre apps mobile e dispositivos físicos usando **Arduino** e **NodeMCU (ESP32)*.  
 
 ---
 
