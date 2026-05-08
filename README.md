@@ -10,7 +10,7 @@ No momento, tô focado em **React Native com Expo**, fazendo a ponte entre apps 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** JavaScript, TypeScript, Python, C/C++  
 - **Mobile:** React Native (Expo)  
-- **IoT:** Arduino, NodeMCU ESP8266, Servo Motor MG995  
+- **IoT:** Arduino, NodeMCU ESP8266 e ESP32, Servo Motor MG995  
 - **Back-End (aprendendo):** PHP e Firebase  
 - **Ferramentas:** Git, VS Code, Android Studio  
 - **Outros:** APIs REST, Context API, Tailwind via Nativewind  
