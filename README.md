@@ -10,7 +10,7 @@ No momento, tô focado em **React Native com Expo**, fazendo a ponte entre apps 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** JavaScript, TypeScript, Python, C/C++  
 - **Mobile:** React Native (Expo)  
-- **IoT:** Arduino, NodeMCU ESP8266 e ESP32, Servo Motor MG995  
+- **IoT:** Arduino, ESP32, Servo Motor MG995  
 - **Back-End (aprendendo):** PHP e Firebase  
 - **Ferramentas:** Git, VS Code, Android Studio  
 - **Outros:** APIs REST, Context API, Tailwind via Nativewind  
@@ -22,7 +22,7 @@ No momento, tô focado em **React Native com Expo**, fazendo a ponte entre apps 
 App mobile desenvolvido com **React Native + Expo** como parte de um projeto acadêmico focado em automação de alimentação para pets.  
 O sistema controla um **Servo Motor via NodeMCU**, com agendamento de horários e status em tempo real. Layout moderno e responsivo, integrando funcionalidades de controle remoto, feedback visual e notificações.
 
-🔧 **Tecnologias usadas:** React Native, JavaScript, Context API, Nativewind, NodeMCU (ESP8266), Arduino, Servo MG995  
+🔧 **Tecnologias usadas:** React Native, JavaScript, Context API, Nativewind, (ESP32), Arduino, Servo MG995  
 🎯 **Objetivo:** automatizar a rotina de alimentação de pets e facilitar a vida do tutor.
 
 ---
